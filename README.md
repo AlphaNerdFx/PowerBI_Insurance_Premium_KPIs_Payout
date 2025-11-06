@@ -1,4 +1,4 @@
-# PowerBI_Insurance_Premium_KPIs_Payout
+# Insurance Premium & KPI Payouts
 An insurance premium is the regular payment made by an individual or business to an insurance provider to maintain an active insurance policy. Premiums can be paid monthly, annually, or on another schedule and are determined by a variety of factors, including the policyholder's age, health, lifestyle, and the type and amount of coverage selected.
 
 <img width="1196" height="794" alt="True Insurance" src="https://github.com/user-attachments/assets/a89d57d4-edb9-46b6-8b27-56546a4b1800" />
